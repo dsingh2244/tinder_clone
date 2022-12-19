@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tinder_clone/static/css/main.6e7508a2.css",
-    "main.js": "/tinder_clone/static/js/main.48e65b8a.js",
+    "main.js": "/tinder_clone/static/js/main.487e8e5d.js",
     "static/js/787.927d9869.chunk.js": "/tinder_clone/static/js/787.927d9869.chunk.js",
     "index.html": "/tinder_clone/index.html",
     "main.6e7508a2.css.map": "/tinder_clone/static/css/main.6e7508a2.css.map",
-    "main.48e65b8a.js.map": "/tinder_clone/static/js/main.48e65b8a.js.map",
+    "main.487e8e5d.js.map": "/tinder_clone/static/js/main.487e8e5d.js.map",
     "787.927d9869.chunk.js.map": "/tinder_clone/static/js/787.927d9869.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e7508a2.css",
-    "static/js/main.48e65b8a.js"
+    "static/js/main.487e8e5d.js"
   ]
 }
