@@ -4,7 +4,16 @@ import "./TinderCards.css";
 import axios from './axios';
 
 function TinderCards() {
-  const [people, setPeople]=useState([]);
+  const [people, setPeople]=useState([
+    {
+      name:"Elon Musk",
+      imgUrl:"https://ichef.bbci.co.uk/news/976/cpsprodpb/08CB/production/_127815220_musk-index-getty.jpg"
+    },
+    {
+      name:"Teresa Palmer",
+      imgUrl :"https://c4.wallpaperflare.com/wallpaper/806/916/60/teresa-palmer-4k-best-high-resolution-wallpaper-preview.jpg"
+    }
+  ]);
   useEffect(()=>{
     async function fetchData(){
         const req= await axios.get('/tinder/cards');
