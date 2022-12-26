@@ -12,6 +12,10 @@ function TinderCards() {
     {
       name:"Teresa Palmer",
       imgUrl :"https://c4.wallpaperflare.com/wallpaper/806/916/60/teresa-palmer-4k-best-high-resolution-wallpaper-preview.jpg"
+    },
+    {
+      name: "Thor",
+      imgUrl: "https://cdn.murphysmultiverse.com/wp-content/uploads/2021/12/hemsworth_720.jpg"
     }
   ]);
   useEffect(()=>{
